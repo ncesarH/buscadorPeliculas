@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Inception",
+    "rating": 8.8,
+    "tags": ["acción", "sci-fi", "favorita"]
+  },
+
+  {
+    "title": "The Godfather",
+    "rating": 9.2,
+    "tags": ["drama", "clásico", "favorita"]
+  },
+
+  {
+    "title": "The Dark Knight",
+    "rating": 9.0,
+    "tags": ["acción", "superhéroes", "favorita"]
+  },
+
+  {
+    "title": "Pulp Fiction",
+    "rating": 8.9,
+    "tags": ["drama", "crimen", "favorita"]
+  },
+
+  {
+    "title": "The Shawshank Redemption",
+    "rating": 9.3,
+    "tags": ["drama", "inspirador", "favorita"]
+  }
+]
